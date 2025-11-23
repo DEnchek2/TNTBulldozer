@@ -1,0 +1,7 @@
+name: TNTBulldozer
+version: '${project.version}'
+main: com.tntbulldozer.TNTBulldozerPlugin
+api-version: 1.16
+softdepend: [WorldGuard]
+author: TNTBulldozer
+description: Adds TNT Bulldozer enchantment for pickaxes
